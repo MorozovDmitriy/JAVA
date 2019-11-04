@@ -1,0 +1,5 @@
+
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(לש´ר8ְעקא-
+Fsquid:S1148"#Use a logger to log this exception.(€ֹװ…‎ÿÿÿÿ8ְעקא-
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ַ“אתÿÿÿÿ8ְעקא-
+ysquid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(ַ“אתÿÿÿÿ8ְעקא-

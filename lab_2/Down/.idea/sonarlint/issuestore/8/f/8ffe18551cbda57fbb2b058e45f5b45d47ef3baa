@@ -1,0 +1,8 @@
+
+?squid:S11484"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+qsquid:S4435B"ZSecure this "Transformer" by either disabling external DTDs or enabling secure processing.(Ò‹ñÙ
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(äˆÈøÿÿÿÿ
+Dsquid:S2755("-Disable XML external entity (XXE) processing.(ğ¨ºî
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬ğ¡
+?squid:S1148J"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+jsquid:ModifiersOrderCheckp"EReorder the modifiers to comply with the Java Language Specification.(½Öÿª

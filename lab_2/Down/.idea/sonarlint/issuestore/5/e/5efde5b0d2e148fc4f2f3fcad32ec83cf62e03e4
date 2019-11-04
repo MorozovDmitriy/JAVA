@@ -1,0 +1,6 @@
+
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8äóïá-
+nsquid:S1301O"KReplace this "switch" statement by "if" statements to increase readability.(šºÔ‚úÿÿÿÿ8îåïá-
+Fsquid:S11485"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ÿí¯ïá-
+gsquid:S1192"IDefine a constant instead of duplicating this literal "question" 3 times.(­œ“8äóïá-
+\"squid:SwitchLastCaseIsDefaultCheckO""Add a default case to this switch.(šºÔ‚úÿÿÿÿ8îåïá-

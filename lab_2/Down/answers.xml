@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<answers identity="8">
+<answer id="1" questId="1">
+<text>Слишком сложно</text>
+<correct>false</correct>
+</answer>
+<answer id="2" questId="1">
+<text>Четыре</text>
+<correct>true</correct>
+</answer>
+<answer id="3" questId="1">
+<text>Пять</text>
+<correct>false</correct>
+</answer>
+<answer id="4" questId="1">
+<text>Я не помню</text>
+<correct>false</correct>
+</answer>
+<answer id="5" questId="1">
+<text>4</text>
+<correct>true</correct>
+</answer>
+<answer id="6" questId="2">
+<text>Ты</text>
+<correct>false</correct>
+</answer>
+<answer id="7" questId="2">
+<text>Он</text>
+<correct>true</correct>
+</answer>
+</answers>

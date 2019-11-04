@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<questions identity="3">
+<question id="1" testId="1">
+<text>Сколько будет 2 + 2?</text>
+<weight>50.0</weight>
+</question>
+<question id="2" testId="1">
+<text>Ответь он!</text>
+<weight>50.0</weight>
+</question>
+</questions>
